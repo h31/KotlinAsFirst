@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inspections>
+    <errors>
+
+    </errors>
+    <warnings>
+        <warning class = "org.jetbrains.kotlin.idea.intentions.ConvertToStringTemplateInspection"/>
+    </warnings>
+    <infos>
+
+    </infos>
+</inspections>
